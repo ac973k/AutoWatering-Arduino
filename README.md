@@ -1,12 +1,12 @@
 Directory "libraries" install in Arduino.
 
-Open ClimateControle.cpp and edit Constructor ClimateControle::ClimateControle();
+Open WaterControle.hpp and edit class WaterControle;
 
 Needed:
 - Arduino
 - DHT11/DHT22
 - DS3231
-- IR Transmitter
-- IR Receiver
+- Capasitive Soil Sensor
+- electric crane
+- DS18B20
 - LCD I2C
-- LG AIR =)
